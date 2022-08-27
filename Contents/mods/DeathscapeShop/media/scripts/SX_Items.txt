@@ -1,0 +1,48 @@
+module Base {
+
+	item DeathCoin
+	{
+		Count	=	1,
+		Weight	=	0.01,
+		CanBeEquipped = FALSE,
+		Type	=	Normal,
+		DisplayName	=	Death Coin,
+		Icon	=	DeathCoin,
+		WorldStaticModel = DeathCoin,
+	}
+
+	model DeathCoin 
+	{
+		mesh = WorldItems/Button,
+		texture = Item_DeathCoin,
+		scale = 1,
+	}
+	
+	item ServiceCoin
+	{
+		Count	=	1,
+		Weight	=	0.01,
+		CanBeEquipped = FALSE,
+		Type	=	Normal,
+		DisplayName	=	Service Coin,
+		Icon	=	ServiceCoin,
+		WorldStaticModel = ServiceCoin,
+	}
+
+	model ServiceCoin 
+	{
+		mesh = WorldItems/Button,
+		texture = Item_ServiceCoin,
+		scale = 1,
+	}
+	
+	item MedPack
+	{
+		Count	=	1,
+		Weight	=	0.01,
+		Type	=	Normal,
+		DisplayName	= Med pack,
+		Icon	=	Present4,
+	}
+
+}

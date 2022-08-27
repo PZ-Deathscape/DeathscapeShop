@@ -1,0 +1,5 @@
+name=Deathscape Shop
+id=DeathscapeShop
+require=nshops
+description=nshop patch: Currency System for Deathscape
+poster=poster.png

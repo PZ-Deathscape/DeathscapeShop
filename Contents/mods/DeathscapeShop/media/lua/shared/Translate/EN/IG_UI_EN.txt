@@ -1,0 +1,6 @@
+IGUI_EN = {
+    IGUI_Tab_Medical = "Medical",
+    IGUI_Tab_Tools = "Tools",
+    IGUI_Tab_Light = "Light Sources",
+    IGUI_Tab_Clothes = "Clothing",
+}

@@ -1,0 +1,6 @@
+version=1
+id=2847816481
+title=Deathscape Shop
+description=nshop patch: Currency System for Scorched Earth
+tags=
+visibility=public
